@@ -1,10 +1,10 @@
-## Get to know me a bit...
+## About me:
 - 💼 Check out [my portfolio](https://030820acc.github.io/)!
 - 🎼 Musician with more than 10 instruments and 12 years of experience.
 - 🛠 Background in the trades including HVAC and automotive maintanence 
 - 🎮 Videogames and table-top RPG are my favorite things to do after work. 
 
-## Get in Touch 
+## Contact me: 
 <img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 <img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" />
 
