@@ -6,7 +6,7 @@
 
 ## Contact me: 
 <img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
-<img align="left" alt="Angel List" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqqlz4j-e9kS1Y14Mdj_0Mv5UX0yyc59c2p3S-ypLzd2nV_EYJ0UVtBdjdI_Nkx1UmfI&usqp=CAU" />
+
 
 <a href="https://030820acc.github.io/"><img align="left" alt="Portfolio" width="30px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
 
