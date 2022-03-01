@@ -8,7 +8,6 @@
 <img align="left" alt="Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
 
 
-<a href="https://030820acc.github.io/"><img align="left" alt="Portfolio" width="30px" src="https://user-images.githubusercontent.com/84882854/152452276-c1d31108-b976-45db-b591-93ae9d7c541d.png" /></a>
 
 
 <br>
