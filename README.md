@@ -1,4 +1,5 @@
 ## About me:
+- Currently learning: Svelte/Sveltekit
 - 💼 Check out [my portfolio](https://030820acc.github.io/)!
 - 🎼 Musician with more than 10 instruments and 12 years of experience.
 - 🛠 Background in the trades including HVAC and automotive maintanence 
