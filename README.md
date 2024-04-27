@@ -1,8 +1,9 @@
 ## About me:
 - Currently learning: Svelte/Sveltekit
+- Working on the Boot.dev backend course.
 - 💼 Check out [my portfolio](https://030820acc.github.io/)!
 - 🎼 Musician with more than 10 instruments and 12 years of experience.
-- 🛠 Background in the trades including HVAC and automotive maintanence 
+- 🛠 Background in the trades, multi family maintenance and HVAC. 
 - 🎮 Videogames and table-top RPG are my favorite things to do after work. 
 
 ## Contact me: 
